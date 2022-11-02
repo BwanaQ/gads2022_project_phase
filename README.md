@@ -1,7 +1,7 @@
 # GADS 2022 LABS PROJECT PHASE
 ## Google Cloud Fundamentals: Core Infrastructure
 
-- [ ] Getting started with Cloud marketplace
+- [x] Getting started with Cloud marketplace
 - [ ] Getting started with VPC Networking
 - [ ] Getting started Cloud Storage and Cloud SQL
 - [ ] Deploying Google Kubernetes Engine
