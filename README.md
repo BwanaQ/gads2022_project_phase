@@ -9,8 +9,8 @@
 - [ ] Automating the deployment of infrastructure using Terraform
 
 ## Essential Google Cloud Infrastructure: Foundation
-- [ ] Working with the Google Cloud Console and Cloud Shell
-- [ ] Infrastructure preview
+- [x] Working with the Google Cloud Console and Cloud Shell
+- [x] Infrastructure preview
 - [ ] VPC Networking
 - [ ] Implement Private Google Access and Cloud NAT
 - [ ] Creating Virtual Machines
