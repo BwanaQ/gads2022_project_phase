@@ -11,7 +11,7 @@
 ## Essential Google Cloud Infrastructure: Foundation
 - [x] Working with the Google Cloud Console and Cloud Shell
 - [x] Infrastructure preview
-- [ ] VPC Networking
+- [x] VPC Networking
 - [ ] Implement Private Google Access and Cloud NAT
 - [ ] Creating Virtual Machines
 - [ ] Working with Virtual Machines
