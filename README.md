@@ -4,7 +4,7 @@
 - [x] Getting started with Cloud marketplace
 - [x] Getting started with VPC Networking
 - [x] Getting started Cloud Storage and Cloud SQL
-- [ ] Deploying Google Kubernetes Engine
+- [x] Deploying Google Kubernetes Engine
 - [ ] Hello Cloud Run
 - [ ] Automating the deployment of infrastructure using Terraform
 
