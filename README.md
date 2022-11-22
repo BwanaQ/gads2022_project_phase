@@ -5,7 +5,7 @@
 - [x] Getting started with VPC Networking
 - [x] Getting started Cloud Storage and Cloud SQL
 - [x] Deploying Google Kubernetes Engine
-- [ ] Hello Cloud Run
+- [x] Hello Cloud Run
 - [ ] Automating the deployment of infrastructure using Terraform
 
 ## Essential Google Cloud Infrastructure: Foundation
