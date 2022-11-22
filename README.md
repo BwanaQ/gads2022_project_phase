@@ -6,7 +6,7 @@
 - [x] Getting started Cloud Storage and Cloud SQL
 - [x] Deploying Google Kubernetes Engine
 - [x] Hello Cloud Run
-- [ ] Automating the deployment of infrastructure using Terraform
+- [x] Automating the deployment of infrastructure using Terraform
 
 ## Essential Google Cloud Infrastructure: Foundation
 - [x] Working with the Google Cloud Console and Cloud Shell
