@@ -18,7 +18,7 @@
 
 ## Essential Google Cloud Infrastructure: Core Services
 - [x] Cloud IAM
-- [ ] Cloud Storage 
+- [x] Cloud Storage 
 - [ ] Implementing Cloud SQL 
 - [ ] Examine Billing Data with BigQuery 
 - [ ] Resource monitoring 
