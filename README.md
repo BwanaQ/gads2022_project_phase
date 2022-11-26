@@ -17,7 +17,7 @@
 - [x] Working with Virtual Machines
 
 ## Essential Google Cloud Infrastructure: Core Services
-- [ ] Cloud IAM
+- [x] Cloud IAM
 - [ ] Cloud Storage 
 - [ ] Implementing Cloud SQL 
 - [ ] Examine Billing Data with BigQuery 
