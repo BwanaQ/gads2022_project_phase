@@ -22,7 +22,7 @@
 - [ ] Implementing Cloud SQL 
 - [x] Examine Billing Data with BigQuery 
 - [ ] Resource monitoring 
-- [ ] Error reporting and debugging
+- [x] Error reporting and debugging
 
 ## Elastic Google Cloud Infrastructure: Scaling and Automation
 - [ ] Virtual Private Networks (VPN)
