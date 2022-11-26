@@ -13,8 +13,8 @@
 - [x] Infrastructure preview
 - [x] VPC Networking
 - [x] Implement Private Google Access and Cloud NAT
-- [ ] Creating Virtual Machines
-- [ ] Working with Virtual Machines
+- [x] Creating Virtual Machines
+- [x] Working with Virtual Machines
 
 ## Essential Google Cloud Infrastructure: Core Services
 - [ ] Cloud IAM
