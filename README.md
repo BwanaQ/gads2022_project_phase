@@ -20,7 +20,7 @@
 - [x] Cloud IAM
 - [x] Cloud Storage 
 - [ ] Implementing Cloud SQL 
-- [ ] Examine Billing Data with BigQuery 
+- [x] Examine Billing Data with BigQuery 
 - [ ] Resource monitoring 
 - [ ] Error reporting and debugging
 
