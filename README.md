@@ -31,6 +31,6 @@
 - [ ] Automating the Deployment of infrastructure using Terraform
 
 ## Reliable Google Cloud Infrastructure: Design and Process
-- [ ] Building a DevOps pipeline
+- [x] Building a DevOps pipeline
 - [ ] Deploying Apps to Google Cloud
 - [ ] Monitoring Application in Google Cloud
