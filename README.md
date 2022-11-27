@@ -32,5 +32,5 @@
 
 ## Reliable Google Cloud Infrastructure: Design and Process
 - [x] Building a DevOps pipeline
-- [ ] Deploying Apps to Google Cloud
+- [x] Deploying Apps to Google Cloud
 - [ ] Monitoring Application in Google Cloud
