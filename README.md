@@ -21,7 +21,7 @@
 - [x] Cloud Storage 
 - [x] Implementing Cloud SQL 
 - [x] Examine Billing Data with BigQuery 
-- [ ] Resource monitoring 
+- [x] Resource monitoring 
 - [x] Error reporting and debugging
 
 ## Elastic Google Cloud Infrastructure: Scaling and Automation
