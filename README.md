@@ -26,7 +26,7 @@
 
 ## Elastic Google Cloud Infrastructure: Scaling and Automation
 - [ ] Virtual Private Networks (VPN)
-- [ ] Configuring HTTP Loadbalancer with Autoscaling
+- [x] Configuring HTTP Loadbalancer with Autoscaling
 - [ ] Configuring internal Loadbalancer
 - [ ] Automating the Deployment of infrastructure using Terraform
 
