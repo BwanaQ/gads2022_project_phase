@@ -28,7 +28,7 @@
 - [ ] Virtual Private Networks (VPN)
 - [x] Configuring HTTP Loadbalancer with Autoscaling
 - [ ] Configuring internal Loadbalancer
-- [ ] Automating the Deployment of infrastructure using Terraform
+- [x] Automating the Deployment of infrastructure using Terraform
 
 ## Reliable Google Cloud Infrastructure: Design and Process
 - [x] Building a DevOps pipeline
