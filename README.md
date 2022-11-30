@@ -25,9 +25,9 @@
 - [x] Error reporting and debugging
 
 ## Elastic Google Cloud Infrastructure: Scaling and Automation
-- [ ] Virtual Private Networks (VPN)
+- [x] Virtual Private Networks (VPN)
 - [x] Configuring HTTP Loadbalancer with Autoscaling
-- [ ] Configuring internal Loadbalancer
+- [x] Configuring internal Loadbalancer
 - [x] Automating the Deployment of infrastructure using Terraform
 
 ## Reliable Google Cloud Infrastructure: Design and Process
